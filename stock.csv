@@ -1,0 +1,49 @@
+item_name,in_stock,price,category,description
+Laptop,1,999.99,Electronics,High-performance laptop suitable for work and gaming notebook computer.
+Smartphone,1,699.99,Electronics,Latest model with an advanced camera and fast processor.
+Tablet,0,499.99,Electronics,Lightweight and portable tablet with a 10-inch display.
+Headphones,1,199.99,Accessories,Wireless over-ear headphones with noise-cancellation.
+Smartwatch,0,299.99,Accessories,Waterproof smartwatch with fitness tracking features.
+Monitor,1,249.99,Electronics,27-inch 4K monitor with HDR support.
+Keyboard,1,79.99,Accessories,Mechanical keyboard with RGB lighting.
+Mouse,1,49.99,Accessories,Wireless mouse with adjustable DPI settings.
+Gaming Console,0,399.99,Electronics,Next-gen gaming console with 4K gaming support.
+Camera,1,549.99,Photography,DSLR camera with 24MP resolution and 4K video recording.
+Television,0,799.99,Electronics,55-inch OLED television with smart features.
+Speakers,1,149.99,Accessories,High-quality bookshelf speakers for home audio.
+External Hard Drive,1,89.99,Storage,1TB external hard drive with USB 3.0 support.
+Printer,0,129.99,Office,All-in-one color printer with wireless printing.
+Router,1,69.99,Networking,Dual-band wireless router with fast speeds and good range.
+Smart Light Bulb,1,19.99,Smart Home,Wi-Fi-enabled smart bulb compatible with voice assistants.
+VR Headset,0,399.99,Electronics,Virtual reality headset with high resolution and immersive experience.
+Wireless Charger,1,29.99,Accessories,Fast wireless charger compatible with all Qi-enabled devices.
+Portable Battery,1,39.99,Accessories,"10,000mAh portable battery pack for charging on the go."
+USB-C Cable,1,9.99,Accessories,Durable 6-foot USB-C cable with fast charging support.
+Fitness Tracker,0,149.99,Accessories,Fitness tracker with heart rate monitor and GPS.
+Drone,0,999.99,Gadgets,High-end drone with 4K camera and obstacle avoidance.
+Projector,1,599.99,Electronics,4K home theater projector with a 120-inch display.
+Smart Doorbell,1,149.99,Smart Home,Video doorbell with motion detection and night vision.
+Electric Scooter,0,749.99,Gadgets,Electric scooter with 15-mile range and app integration.
+Smart Thermostat,1,199.99,Smart Home,Smart thermostat with energy-saving features.
+Air Purifier,1,249.99,Home,HEPA air purifier with real-time air quality monitoring.
+Security Camera,0,199.99,Smart Home,Wireless security camera with two-way audio and night vision.
+Soundbar,1,299.99,Electronics,High-quality soundbar with Dolby Atmos support.
+Dishwasher,0,599.99,Appliances,Quiet and energy-efficient dishwasher with smart controls.
+Refrigerator,1,1199.99,Appliances,French-door refrigerator with water and ice dispenser.
+Washing Machine,0,899.99,Appliances,Front-load washing machine with steam cleaning.
+Dryer,1,799.99,Appliances,Electric dryer with moisture sensor and multiple drying modes.
+Microwave,1,149.99,Appliances,Countertop microwave with smart sensor cooking.
+Blender,0,99.99,Kitchen,High-powered blender with multiple speed settings.
+Coffee Maker,1,129.99,Kitchen,Drip coffee maker with programmable brewing.
+Toaster,1,39.99,Kitchen,Two-slice toaster with extra-wide slots for bagels.
+Juicer,0,149.99,Kitchen,Centrifugal juicer with multiple pulp settings.
+Rice Cooker,1,59.99,Kitchen,Multi-functional rice cooker with steaming options.
+Vacuum Cleaner,0,299.99,Home,Powerful vacuum cleaner with HEPA filter.
+Air Fryer,1,99.99,Kitchen,Compact air fryer for oil-free frying.
+Electric Kettle,1,49.99,Kitchen,Stainless steel electric kettle with temperature control.
+Iron,1,29.99,Home,Steam iron with adjustable settings for all fabrics.
+Hair Dryer,0,59.99,Beauty,Professional hair dryer with ionic technology.
+Shower Speaker,1,19.99,Accessories,Waterproof Bluetooth speaker for shower use.
+Bluetooth Tracker,1,29.99,Gadgets,Compact Bluetooth tracker for finding lost items.
+Portable Speaker,0,99.99,Accessories,Portable Bluetooth speaker with long battery life.
+Electric Toothbrush,1,49.99,Beauty,Rechargeable electric toothbrush with multiple cleaning modes.
