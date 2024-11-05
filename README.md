@@ -1,6 +1,6 @@
 # Retail Agent Chatbot
 
-Welcome to the Stock Checker Chatbot! This chatbot helps users identify items from images, check stock availability, and recommend similar items if the desired item is out of stock. It uses a pre-trained MobileNetV2 model for image classification and Langchain with OpenAI's API for recommendations.
+This chatbot helps users identify items from images, check stock availability, and recommend similar items if the desired item is out of stock. It uses a pre-trained MobileNetV2 model for image classification and Langchain with OpenAI's API for recommendations.
 
 ## Table of Contents
 
