@@ -24,8 +24,8 @@ This chatbot helps users identify items from images, check stock availability, a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ADenver13/COMP_3800_Group_Project_AD_ST.git
-   cd COMP_3800_Group_Project_AD_ST
+   git clone https://github.com/yourusername/stock-checker-chatbot.git
+   cd stock-checker-chatbot
    ```
 2. **Install Requirements**:
    ```bash
@@ -43,7 +43,12 @@ After this, you can run all code inside the Jupyter Notebook.
   The chatbot can be run just like any other Jupyter Notebook.
 
 ## Tips
-  - The bot does have a tendency to hallucinate, as do all LLMs. This can impact your flashcards, particularly the additional reccomendations not found in the text. This feature can be turned off.
+  - The bot does have a tendency to hallucinate, as do all LLMs. This likelihood of hallucinating could be reduced with more careful prompts or by adjusting the temperature.
+  - Whenever you run the bot, it will first ask you about a laptop. This is because of the demo cell designed to produce a bar chart to demo the image classification. You can remove that by removing this cell:
+   ```python
+  #Example to show how image classification is working
+  match_image_to_description('C:\\Users\\histo\\retail_agent_demo\\71EVBJVMSoL.jpg', debug=True)
+   ```
   - Currently, the bot wil tell you what it's thinking and try to rationalize decisions to you. This can be removed by setting verbose=False in the following code:
    ```python
    agent_executor = initialize_agent(
